@@ -19,13 +19,25 @@ An IOT based solution for monitoring the agriculture land to keep check on soil 
 => connection between Arduino and Rain detection sensor
 
 
+ 
 
 
 => connection between Arduino and LDR sensor
 
+ 
+
 => connection between Arduino and MQ-2 gas detection sensor
+ 
+
 
 => connection between Arduino and DHT temp & humidity sensor
+ 
 
-=> connection between Arduino ,ESP8266 sensor and Blynk app
+
+=> connection between Arduino and ESP8266 sensor
+
+
+
+ 
+
  
